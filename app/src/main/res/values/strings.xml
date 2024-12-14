@@ -1,4 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FitAppNew</string>
-    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_home_page">Главная страница</string>
+
+    <!-- Общие строки -->
+    <string name="welcome_back">С возвращением,</string>
+    <string name="get_started">Начать</string>
+    <string name="track_active_lifestyle">Отслеживайте активный образ жизни</string>
+    <string name="perfect_body_text">Найдите свой путь к идеальному телу</string>
+
+    <!-- Логин и регистрация -->
+    <string name="login">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="full_name">Полное имя</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="have_account">Уже есть аккаунт? Войти</string>
+    <string name="no_account">Нет аккаунта? Зарегистрироваться</string>
+
+    <!-- Навигация -->
+    <string name="home">Главная</string>
+    <string name="calendar">Календарь</string>
+
+    <!-- Тренировки -->
+    <string name="exercises">Упражнения</string>
+    <string name="complexes">Комплексы</string>
+    <string name="popular">Популярное</string>
+
+    <!-- Уровни сложности -->
+    <string name="easy">Легкий</string>
+    <string name="medium">Средний</string>
+    <string name="hard">Сложный</string>
+
+    <!-- Календарь -->
+    <string name="selected_date">Выбранная дата:</string>
+    <string name="workout_type">Тип тренировки</string>
+    <string name="duration">Длительность (минуты)</string>
+    <string name="save_workout">Сохранить тренировку</string>
+    <string name="edit_workout">Изменить тренировку</string>
+    <string name="delete_workout">Удалить тренировку</string>
+    <string name="confirm_delete">Вы уверены, что хотите удалить эту тренировку?</string>
+    <string name="workouts_for_date">Тренировки на выбранную дату</string>
+    <string name="monthly_stats">Статистика за %1$s %2$d:</string>
+    <string name="total_workouts">Всего тренировок: %1$d</string>
+    <string name="total_duration">Общая длительность: %1$d минут</string>
+
+    <!-- Сообщения -->
+    <string name="fill_all_fields">Пожалуйста, заполните все поля</string>
+    <string name="min_password_length">Пароль должен содержать минимум 6 символов</string>
+    <string name="auth_failed">Ошибка аутентификации: %1$s</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
 </resources>
